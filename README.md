@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhijeet - aka [abhijeet1999][website] 👋
 
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
-- 🔭 I’m currently Studying on a [MBCET][website]!
+- 🔭 I’m currently Studying Btech CSE at [MBCET][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
