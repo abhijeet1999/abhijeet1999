@@ -31,11 +31,11 @@
 <br />
 
 ---
-[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)]
 ---
 ---
 ### Readmd forked from [codeSTACKr][website12]
-### Code for [Stats][https://github.com/anuraghazra/github-readme-stats]
+### Code for [Stats][stat]
 ---
 
 [website]: https://mbcet.ac.in/
@@ -48,3 +48,4 @@
 [flutterplaylist]:https://flutter.dev/
 [Pytorchplaylist]:https://pytorch.org/
 [website12]: https://github.com/codeSTACKr/codeSTACKr
+[stat]:https://github.com/anuraghazra/github-readme-stats
