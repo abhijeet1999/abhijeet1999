@@ -3,7 +3,7 @@
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
 - 🔭 I’m currently Studying Btech CSE at [MBCET][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have no extra talent yet i am fun to be with.
 
@@ -20,8 +20,8 @@
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Flutter" width="106px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />][flutterplaylist]
-[<img align="left" alt="Pytorch" width="106px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />][Pytorchplaylist]
-[<img align="left" alt="Django" width="86px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />][djangoplaylist]
+[<img align="left" alt="Pytorch" width="116px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />][Pytorchplaylist]
+[<img align="left" alt="Django" width="8\96px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />][djangoplaylist]
 [<img align="left" alt="MySQL" width="86px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -32,6 +32,10 @@
 
 ---
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+---
+Readmd forked from [codeSTACKr][website12]
+[website12]: https://github.com/codeSTACKr/codeSTACKr
 ---
 
 [website]: https://mbcet.ac.in/
