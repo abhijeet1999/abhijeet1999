@@ -1,4 +1,4 @@
-### Hi there, I'm Abhijeet - aka [abhijeet1999] 👋
+### Hi there, I'm Abhijeet - aka abhijeet1999 👋
 
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
 - 🔭 I’m currently Studying Btech CSE at [MBCET][website]!
