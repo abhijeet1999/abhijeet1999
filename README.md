@@ -34,7 +34,8 @@
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ---
-####Readmd forked from [codeSTACKr][website12]
+### Readmd forked from [codeSTACKr][website12]
+### Code for [Stats][https://github.com/anuraghazra/github-readme-stats]
 ---
 
 [website]: https://mbcet.ac.in/
