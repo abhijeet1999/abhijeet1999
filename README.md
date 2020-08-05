@@ -34,8 +34,7 @@
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ---
-Readmd forked from [codeSTACKr][website12]
-[website12]: https://github.com/codeSTACKr/codeSTACKr
+####Readmd forked from [codeSTACKr][website12]
 ---
 
 [website]: https://mbcet.ac.in/
@@ -47,3 +46,4 @@ Readmd forked from [codeSTACKr][website12]
 [djangoplaylist]: https://docs.djangoproject.com/en/3.0/releases/3.0/
 [flutterplaylist]:https://flutter.dev/
 [Pytorchplaylist]:https://pytorch.org/
+[website12]: https://github.com/codeSTACKr/codeSTACKr
