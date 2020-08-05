@@ -23,16 +23,17 @@
 [<img align="left" alt="Pytorch" width="106px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />][Pytorchplaylist]
 [<img align="left" alt="Django" width="86px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />][djangoplaylist]
 [<img align="left" alt="MySQL" width="86px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="86px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="106px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="166px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="96px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="566px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="566px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 
 <br />
 <br />
 
-
+---
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet1999&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 [website]: https://mbcet.ac.in/
 [instagram]: https://www.instagram.com/abhijeet_the_gallant/
