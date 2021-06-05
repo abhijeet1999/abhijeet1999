@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhijeet - aka abhijeet1999 👋
 
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
-- 🔭 I’m currently Studying Btech CSE at [MBCET][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently a graduate in  Btech CSE at [MBCET][website]!
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate with other 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have no extra talent yet i am fun to be with.
 
 ### Connect with me:
