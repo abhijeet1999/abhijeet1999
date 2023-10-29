@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
 - 🔭 I’m currently a graduate in  Btech CSE at [MBCET][website]!
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning iPhone Development
 - 👯 I’m looking to collaborate with other 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have no extra talent yet i am fun to be with.
 
 ### Connect with me:
