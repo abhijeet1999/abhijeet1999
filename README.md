@@ -4,7 +4,7 @@
 - 🔭 I’m currently a graduate in  Btech CSE at [MBCET][website]!
 - 🌱 I’m currently learning iPhone Development
 - 👯 I’m looking to collaborate with other 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have no extra talent yet i am fun to be with.
 
 ### Connect with me:
@@ -25,16 +25,11 @@
 [<img align="left" alt="Pytorch" width="116px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />][Pytorchplaylist]
 [<img align="left" alt="Django" width="36px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />][djangoplaylist]
 [<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 
 <br />
 <br />
-
----
-### Readmd forked from [codeSTACKr][website12]
----
 
 [website]: https://mbcet.ac.in/
 [instagram]: https://www.instagram.com/abhijeet_the_gallant/
@@ -45,5 +40,3 @@
 [djangoplaylist]: https://docs.djangoproject.com/en/3.0/releases/3.0/
 [flutterplaylist]:https://flutter.dev/
 [Pytorchplaylist]:https://pytorch.org/
-[website12]: https://github.com/codeSTACKr/codeSTACKr
-[stat]:https://github.com/anuraghazra/github-readme-stats
