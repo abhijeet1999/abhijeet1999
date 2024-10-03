@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhijeet - aka abhijeet1999 👋
 
 ## I'm a Developer, Tech enthusiast, Good Friend and much more !!!!
-- 🔭 I’m currently a graduate in  Btech CSE at [MBCET][website]!
+- 🔭 I’m currently a graduate in  MSCS Cloud Computing at [Marist][website]!
 - 🌱 I’m currently learning iPhone Development
 - 👯 I’m looking to collaborate with other 
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have no extra talent yet i am fun to be with.
 
 ### Connect with me:
@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[website]: https://mbcet.ac.in/
+[website]: [https://mbcet.ac.in/](https://www.marist.edu)
 [instagram]: https://www.instagram.com/abhijeet_the_gallant/
 [linkedin]: https://www.linkedin.com/in/abhijeet-b1693b161/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
