@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://abhijeet1999.github.io/Portfolio/images/profile.jpg" width="120" height="120" alt="Abhijeet (AJ) Cherungottil" style="border-radius: 50%" />
+<img src="./assets/profile-3d-hero.gif" width="100%" alt="Abhijeet (AJ) Cherungottil — iOS Software Engineer. Floating 3D profile card over the portfolio cinematic background film." />
 
-# Abhijeet (AJ) Cherungottil
-
-### iOS Software Engineer
-
-**Thoughtful apps. Connected systems. Built for the people using them.**
+<br/>
 
 I build across the Apple ecosystem — from SwiftUI interfaces to real-time cloud services.  
 Based in New York. Currently building at ZenZiee.
