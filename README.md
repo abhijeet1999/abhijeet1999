@@ -79,7 +79,7 @@ After nearly three years building and shipping Swift and UIKit apps at **QBurst*
       <code>Swift</code> · <code>UIKit</code> · <code>SwiftUI</code> · <code>FLIR</code> · <code>CoreML</code>
     </td>
     <td width="50%" valign="top">
-      <h3>m Digital education</h3>
+      <h3> Maarist Digital education</h3>
       <p><em>Accessibility × web</em></p>
       <p>Accessible learning resources and faculty workflows for Marist University’s Digital Education team — including LMS QA and inclusive course adaptations.</p>
       <code>Accessibility</code> · <code>Liferay</code> · <code>Brightspace</code> · <code>Panopto</code>
