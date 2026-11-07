@@ -152,6 +152,14 @@ From the first view to the last API call.
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abhijeet1999&layout=compact&hide_border=true&bg_color=F5F7FB&title_color=336BC2&text_color=52647A" alt="Top languages" height="165" />
 </div>
 
+<p align="center">
+  <img src="./output/bonsai-growth.gif" width="384" alt="My git-bonsai — a pixel-art tree grown from my GitHub history" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai" /></a>
+</p>
+
 ---
 
 <div align="center">
