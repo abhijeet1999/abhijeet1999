@@ -113,8 +113,8 @@ struct Abhijeet: iOSEngineer {
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet1999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=C9D1D9&ring_color=7DF9FF" alt="GitHub statistics" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1999&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="Top languages" height="175" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=abhijeet1999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=C9D1D9&ring_color=7DF9FF" alt="GitHub statistics" height="175" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abhijeet1999&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="Top languages" height="175" />
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
