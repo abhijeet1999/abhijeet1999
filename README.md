@@ -1,136 +1,176 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=abhijeet1999&theme=neon&role=iOS%20Engineer&location=Building%20native%20mobile%20experiences&v=ios-1" width="100%" alt="Abhijeet Cherungottil — iOS Engineer" />
+<img src="https://abhijeet1999.github.io/Portfolio/images/profile.jpg" width="120" height="120" alt="Abhijeet (AJ) Cherungottil" style="border-radius: 50%" />
+
+# Abhijeet (AJ) Cherungottil
+
+### iOS Software Engineer
+
+**Thoughtful apps. Connected systems. Built for the people using them.**
+
+I build across the Apple ecosystem — from SwiftUI interfaces to real-time cloud services.  
+Based in New York. Currently building at ZenZiee.
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=1000&color=7DF9FF&center=true&vCenter=true&width=980&height=64&lines=iOS+Engineer+%7C+Swift+%C2%B7+SwiftUI+%C2%B7+UIKit;Building+fast%2C+accessible%2C+reliable+iOS+experiences;Architecture+%C2%B7+Concurrency+%C2%B7+Performance+%C2%B7+Quality;Turning+complex+ideas+into+delightful+apps+%F0%9F%9A%80" alt="Animated introduction" />
-</a>
-
-<br/>
-
-<a href="https://abhijeet1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="https://github.com/abhijeet1999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/abhijeetcherungottil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://abhijeet1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-336BC2?style=for-the-badge&logo=safari&logoColor=white&labelColor=f5f7fb" alt="Portfolio" /></a>
+<a href="mailto:abhijeetcherungottil@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-1d1d1f?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=f5f7fb" alt="Let's talk" /></a>
+<a href="https://www.linkedin.com/in/abhijeetcherungottil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=f5f7fb" alt="LinkedIn" /></a>
+<a href="https://github.com/abhijeet1999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=f5f7fb" alt="GitHub" /></a>
 
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
+---
 
-## ⚡ whoami
+## A little about me
 
 ```swift
 struct Abhijeet: iOSEngineer {
-    let location = "Kerala, India — open to relocation"
-    let experience = "3+ years shipping production iOS apps"
-    let stack = ["Swift", "SwiftUI", "UIKit", "Combine", "Objective-C"]
-    let focus = ["MVVM", "async/await", "performance", "accessibility"]
-    let currentlyBuilding = "Useful, polished mobile experiences"
+    let alsoKnownAs = "AJ"
+    let location = "New York"
+    let role = "iOS Engineer & Technology Consultant"
+    let currentlyBuilding = "ZenZiee — iPhone, WidgetKit, watchOS + Go/AWS"
+    let path = ["QBurst", "Marist (M.S. Cloud Computing)", "ZenZiee"]
+    let stack = ["Swift", "SwiftUI", "UIKit", "watchOS", "Go", "AWS"]
 }
 ```
 
-> I build native iOS apps where the experience feels effortless because the engineering behind it is deliberate: clean state management, resilient networking, accessibility, and measurable performance.
->
-> **Collaboration is welcome when it ships something meaningful.**
+I’m Abhijeet (AJ), an iOS engineer and technology consultant. I enjoy working across the whole product: the interface someone touches, the systems behind it, and the details that make it accessible.
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
+After nearly three years building and shipping Swift and UIKit apps at **QBurst**, I completed my **M.S. in Computer Science** (cloud computing) at Marist. Today I work on iOS and cloud services at **ZenZiee**, alongside consulting and community projects.
 
-## 📱 How I build iOS apps
+---
+
+## How I build
 
 <p align="center">
-  <img src="./assets/ios-engineering-flow.gif" width="100%" alt="Animated iOS engineering flow: SwiftUI requests flow into a ViewModel with state and async/await, then to a reliable API + Cache data layer — MVVM, cancellation, caching, accessibility, testing" />
+  <img src="./assets/ios-engineering-flow.gif" width="100%" alt="iOS engineering flow: SwiftUI → ViewModel (state + async/await) → API + Cache — MVVM, cancellation, caching, accessibility, testing" />
 </p>
 
-| What matters | How I deliver it |
+| Focus | How it shows up |
 | --- | --- |
-| **Delightful UI** | SwiftUI-first development, UIKit when appropriate, reusable components, Dynamic Type, VoiceOver, RTL, and adaptive layouts. |
-| **Maintainable architecture** | MVVM, protocol-oriented dependency injection, Coordinator/Router patterns, focused view models, and testable boundaries. |
-| **Reliable data flow** | async/await, cancellation, token refresh, cache-aware networking, pagination, offline states, and clear error handling. |
-| **Measurable quality** | XCTest, Instruments, profiling before optimization, Crashlytics/Sentry, CI, and TestFlight delivery. |
+| **Delightful UI** | SwiftUI-first, UIKit when it fits, Dynamic Type, VoiceOver, RTL, adaptive layouts |
+| **Maintainable architecture** | MVVM, clear boundaries, testable view models, explicit dependencies |
+| **Reliable systems** | async/await, cancellation, cache-aware networking, offline and error states |
+| **Human impact** | Accessibility in product work — S.P.A.R, Marist Digital Education, One Earth One Chance |
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
+---
 
-## ⚔️ iOS Arsenal
+## Selected work
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=swift,apple,git,github,java,go,docker,mysql&perline=8&theme=dark" alt="Swift, Apple, Git, GitHub, Java, Go, Docker, and MySQL" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0d1117" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="UIKit" />
-<img src="https://img.shields.io/badge/Combine-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Combine" />
-<img src="https://img.shields.io/badge/Swift_Concurrency-FF8A00?style=for-the-badge&labelColor=0d1117" alt="Swift Concurrency" />
-<img src="https://img.shields.io/badge/XCTest-34C759?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="XCTest" />
-<img src="https://img.shields.io/badge/Core_ML_%2B_Vision-5E5CE6?style=for-the-badge&labelColor=0d1117" alt="Core ML and Vision" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
-
-## 🌌 Selected Work
+<small>Small details. Complete experiences.</small>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Arabic News & Radio</h3>
-      <p>Production iOS experience with RTL localization, accessible UI, and media-focused product flows for a 100K+ user app.</p>
-      <code>Swift</code> · <code>UIKit</code> · <code>RTL</code> · <code>Accessibility</code>
+      <h3>✳ ZenZiee</h3>
+      <p><em>iOS × real-time systems</em></p>
+      <p>Five-friend iOS social app with messaging and live activity across iPhone, widgets, and Apple Watch — backed by Go services on AWS.</p>
+      <code>SwiftUI</code> · <code>MVVM</code> · <code>Go</code> · <code>AWS</code> · <code>WidgetKit</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧊 LiDAR & Thermal Fit</h3>
-      <p>Device-connected capture and analysis workflows using LiDAR, FLIR, Core ML, and Vision; helped raise fit accuracy from ~70% to ~90%.</p>
-      <code>Swift</code> · <code>Core ML</code> · <code>Vision</code> · <code>LiDAR</code>
+      <h3><a href="https://github.com/abhijeet1999/MSCS_Spring2025_Capping">▥ S.P.A.R</a></h3>
+      <p><em>Systems × mobile</em></p>
+      <p>Accessible iOS interface for monitoring Linux CPU, memory, disk, and processes — with VoiceOver and Dynamic Type treated as part of the layout.</p>
+      <code>SwiftUI</code> · <code>Electron</code> · <code>Spring Boot</code> · <code>MySQL</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MSCS-Capping/MSCS_Spring2025_Capping">SPAR</a></h3>
-      <p>System Performance Analysis & Reporting: SwiftUI iOS companion for live CPU, memory, disk, I/O, battery, and process monitoring.</p>
-      <code>SwiftUI</code> · <code>Spring Boot</code> · <code>MySQL</code>
+      <h3>◉ Thermal vision</h3>
+      <p><em>iOS × computer vision</em></p>
+      <p>Thermal image analysis and mask-fit exploration on iOS with FLIR One, CoreML, and a UIKit + SwiftUI workflow.</p>
+      <code>Swift</code> · <code>UIKit</code> · <code>SwiftUI</code> · <code>FLIR</code> · <code>CoreML</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhijeet1999/WeatherApp">WeatherApp</a></h3>
-      <p>Event-driven weather system that demonstrates the backend and observability thinking I bring to mobile products.</p>
-      <code>Go</code> · <code>Kafka</code> · <code>Prometheus</code> · <code>Docker</code>
+      <h3>m Digital education</h3>
+      <p><em>Accessibility × web</em></p>
+      <p>Accessible learning resources and faculty workflows for Marist University’s Digital Education team — including LMS QA and inclusive course adaptations.</p>
+      <code>Accessibility</code> · <code>Liferay</code> · <code>Brightspace</code> · <code>Panopto</code>
     </td>
   </tr>
 </table>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
+<p align="center">
+  <a href="https://abhijeet1999.github.io/Portfolio/#/work">Explore all projects on my portfolio →</a>
+</p>
 
-## 🧠 Engineering Principles
+---
 
-- **State is a product concern.** Loading, failure, cancellation, empty, cached, and offline states deserve first-class design.
-- **Architecture should make change cheaper.** I keep business logic out of views and make dependencies explicit and mockable.
-- **Performance starts with evidence.** I profile with Instruments before choosing an optimization.
-- **Accessibility is not a polish pass.** VoiceOver, Dynamic Type, semantic UI, and localization belong in the build from the beginning.
+## Beyond the interface
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
+| | |
+| --- | --- |
+| **3 years** | Building iOS at QBurst — shipping Swift and UIKit apps with multidisciplinary teams |
+| **3 surfaces** | One connected experience at ZenZiee — iPhone, WidgetKit, and Apple Watch |
+| **Access first** | VoiceOver & Dynamic Type in S.P.A.R, accessible learning at Marist, nonprofit tech at One Earth One Chance |
 
-## 📊 GitHub Activity
+---
+
+## The toolkit
+
+From the first view to the last API call.
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=abhijeet1999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=C9D1D9&ring_color=7DF9FF" alt="GitHub statistics" height="175" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abhijeet1999&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="Top languages" height="175" />
-</div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=abhijeet1999&theme=neon&v=ios-1" width="100%" alt="Section divider" /></div>
-
-<div align="center">
-
-## 🤝 Let’s Build Something Meaningful
-
-I’m interested in teams that value native mobile craft, thoughtful product decisions, and dependable engineering.
-
-<a href="https://abhijeet1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_my_portfolio-7DF9FF?style=for-the-badge&labelColor=0d1117" alt="Explore portfolio" /></a>
-<a href="https://github.com/abhijeet1999"><img src="https://img.shields.io/badge/See_my_code-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="See my code" /></a>
-<a href="https://www.linkedin.com/in/abhijeetcherungottil/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Connect on LinkedIn" /></a>
+<img src="https://skillicons.dev/icons?i=swift,apple,aws,git,github,docker,mysql&perline=7&theme=light" alt="Swift, Apple, AWS, Git, GitHub, Docker, MySQL" />
 
 <br/><br/>
 
-<sub>Built with Swift-minded attention to detail.</sub>
+<img src="https://img.shields.io/badge/SwiftUI-336BC2?style=for-the-badge&logo=swift&logoColor=white&labelColor=f5f7fb" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/UIKit-1d1d1f?style=for-the-badge&logo=apple&logoColor=white&labelColor=f5f7fb" alt="UIKit" />
+<img src="https://img.shields.io/badge/WidgetKit-52647a?style=for-the-badge&labelColor=f5f7fb" alt="WidgetKit" />
+<img src="https://img.shields.io/badge/watchOS-1d1d1f?style=for-the-badge&logo=apple&logoColor=white&labelColor=f5f7fb" alt="watchOS" />
+<img src="https://img.shields.io/badge/MVVM-336BC2?style=for-the-badge&labelColor=f5f7fb" alt="MVVM" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=f5f7fb" alt="Go" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=f5f7fb" alt="AWS" />
+<img src="https://img.shields.io/badge/Accessibility-34C759?style=for-the-badge&labelColor=f5f7fb" alt="Accessibility" />
+
+</div>
+
+<br/>
+
+**Apple platforms** — Swift · SwiftUI · UIKit · WidgetKit · watchOS · CoreML · SceneKit · Vision  
+**Cloud & systems** — Go · AWS · WebSocket · AppSync · REST APIs · Spring Boot · MySQL  
+**Product & access** — VoiceOver · Dynamic Type · LMS QA · Power Apps · Power Automate
+
+---
+
+## Experience
+
+| Where | Role | When |
+| --- | --- | --- |
+| **ZenZiee** | Senior iOS Developer · Technical Consultant | Apr 2026 – present |
+| **QBurst** | Software Engineer (iOS) | Aug 2021 – Jul 2024 |
+| **Marist University** | Digital Education Consultant / LMS QA | Sep 2024 – Dec 2025 |
+| **One Earth One Chance** | Technology consultant · volunteer | Dec 2025 – present |
+| **Wonderhunt Corp** | Mobile QA Tester · freelance | 2026 (completed) |
+| **Dash Level** | Freelance Software Engineer | Mar – Apr 2026 |
+
+---
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=abhijeet1999&show_icons=true&hide_border=true&bg_color=F5F7FB&title_color=336BC2&icon_color=336BC2&text_color=52647A&ring_color=336BC2" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abhijeet1999&layout=compact&hide_border=true&bg_color=F5F7FB&title_color=336BC2&text_color=52647A" alt="Top languages" height="165" />
+</div>
+
+---
+
+<div align="center">
+
+## Something good starts with hello
+
+Have an iOS product, a technical challenge, or an opportunity in mind?  
+I’d love to hear about it.
+
+<a href="mailto:abhijeetcherungottil@gmail.com"><img src="https://img.shields.io/badge/Send_a_message-336BC2?style=for-the-badge&labelColor=f5f7fb" alt="Send a message" /></a>
+<a href="https://abhijeet1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_portfolio-1d1d1f?style=for-the-badge&labelColor=f5f7fb" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/abhijeetcherungottil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=f5f7fb" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+<sub>Built with care. Always learning. · <a href="https://abhijeet1999.github.io/Portfolio/">abhijeet1999.github.io/Portfolio</a></sub>
 
 </div>
