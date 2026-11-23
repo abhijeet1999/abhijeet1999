@@ -11,3 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: egorthinks/git-bonsai@v1
+        with:
+          # PAT with `repo` scope → private languages color the crown.
+          # Falls back to GITHUB_TOKEN (public data only) if the secret is unset.
+          github-token: ${{ secrets.BONSAI_GITHUB_TOKEN || github.token }}
